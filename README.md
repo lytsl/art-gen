@@ -37,11 +37,11 @@ To install the necessary dependencies, follow the below steps:
 
 |Text Prompt |Style |Output |
 |--- |---|---|
-|a castle above clouds  |heavenly | ![image](https://github.com/lytsl/art-gen/assets/85685866/4a733ff3-bdc4-4621-b1d3-f0df7261081f)|
-|scream |horror | ![image](https://github.com/lytsl/art-gen/assets/85685866/38b8885e-97bf-44a7-a977-0a060a0e6556)|
-|Beautiful desolated majestic futuristic technologically advanced cyberpunk scientist civilization |dark fantasy |![image](https://github.com/lytsl/art-gen/assets/85685866/63cb4774-4549-4f0d-8f62-b40921557d24)|
-|keanu reeves |default |![image](https://github.com/lytsl/art-gen/assets/85685866/039f9c89-7042-4581-8a85-3f1d3bc5d1df)|
-|a painting of sunset at sea |epic |![image](https://github.com/lytsl/art-gen/assets/85685866/9ac16673-5d89-4e35-82b9-f7a299a905a2) |
+|a castle above clouds  |heavenly |![image](https://github.com/lytsl/art-gen/assets/85685866/c44f47d7-df85-4283-9711-60bb3e74b193) |
+|scream |horror |![image](https://github.com/lytsl/art-gen/assets/85685866/5cb09460-d620-4aa0-9743-f1d1f4a8d53a) |
+|Beautiful desolated majestic futuristic technologically advanced cyberpunk scientist civilization |dark fantasy |![image](https://github.com/lytsl/art-gen/assets/85685866/13c2dcbb-034f-4950-99ab-219aa79b99f2)|
+|keanu reeves |default |![image](https://github.com/lytsl/art-gen/assets/85685866/220ed1e0-ffcb-4cb6-9f32-19d8b55e91b0)|
+|a painting of sunset at sea |epic |![image](https://github.com/lytsl/art-gen/assets/85685866/1d38eb59-66e7-483b-b1e3-26dc44406628) |
 
 
 ## Credits
